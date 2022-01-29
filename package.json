@@ -1,0 +1,22 @@
+{
+  "name": "cron",
+  "version": "1.0.0",
+  "description": "Different sample on npm cron",
+  "main": "pattern.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagvivek9/cron.git"
+  },
+  "author": "Nagendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nagvivek9/cron/issues"
+  },
+  "homepage": "https://github.com/nagvivek9/cron#readme",
+  "dependencies": {
+    "cron": "^1.8.2"
+  }
+}
